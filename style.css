@@ -4,3 +4,19 @@ body {
 h1 {
     font-size: 50px;
 }
+.orange-color {
+    color: orange;
+}
+
+.display {
+    display: inline-block;
+    text-align: justify;
+}
+.left {
+    display: inline-block;  
+    width: 50%;
+}
+.right{
+    width: 40%;
+    text-align: right;
+}
